@@ -1,7 +1,7 @@
 {
   "name": "Gwiji Tech V5",
   "description": "A WhatsApp Bot Created By Hamso Gwiji Final Version",
-  "logo": "https://files.catbox.moe/3ox7k9.jpg",
+  "logo": "https://files.catbox.moe/d837en.png",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
