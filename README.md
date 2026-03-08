@@ -1,4 +1,4 @@
-# GWIJI-V5
+# GWIJITECH-V5
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By HAMSO GWIJI⚡</u>
@@ -24,7 +24,7 @@
 
 
 
-## GWIJI-V5 Deployment Methods
+## GWIJITECH-V5 Deployment Methods
 ---
 1.  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V5/fork) (A MUST) and Star ⭐ Repository for Courage.**
 2.  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
@@ -42,7 +42,7 @@
 ## `Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254110961611"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@DavidCyril_TECH"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@DavidCyril_TECH" /><br>
 <p align="center">
