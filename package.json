@@ -1,19 +1,19 @@
 {
-  "name": "Anita_V5",
+  "name": "Tech_V5",
   "version": "5.0.0",
-  "description": "Queen Anita V5 Is a Simple Whatsapp Bot Made by David Cyril using Baileys-X",
+  "description": "GwijiTech V5 Is a Simple Whatsapp Bot Made by Hamso Gwiji using Baileys-X",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --name Queen_Anita-V5 --deep-monitoring --attach",
-    "stop": "pm2 stop Queen_Anita-V5",
-    "restart": "pm2 restart Queen_Anita-V5"
+    "start": "pm2 start index.js --name Gwiji_Tech-V5 --deep-monitoring --attach",
+    "stop": "pm2 stop Gwiji_Tech-V5",
+    "restart": "pm2 restart Gwiji_Tech-V5"
   },
   "keywords": [
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "David Cyril",
+  "author": "Hamso Gwiji",
   "license": "MIT",
    "dependencies": {
     "@adiwajshing/baileys": "npm:wileys@^0.4.1",
